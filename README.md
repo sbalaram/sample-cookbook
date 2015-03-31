@@ -3,3 +3,4 @@
 Re-creation of clowns/bears from Chef Fundamentals
 -More features
 - Testing syntax using Knife
+--testing more syntax using knife
